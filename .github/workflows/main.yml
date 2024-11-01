@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "kernelsu-fix" ]
   pull_request:
-    branches: [ "kernelsu-fix" ]
+    branches: [ "kernelsu-fix" ] 
 
 jobs:
   build:
